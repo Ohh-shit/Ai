@@ -44,6 +44,12 @@ Profile 1:
    Connection Status  : Successful
    Signal Strength    : 75%
    Channel            : 6
+------------------------------------------------------------
 
 Libraries Used
 The script utilizes the subprocess and re libraries, both of which are part of Python's standard library. No additional installations via pip are required.
+
+
+Contact:
+For any questions or suggestions, please contact: reply4buck@gmail.com
+
